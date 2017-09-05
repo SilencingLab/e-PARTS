@@ -1,6 +1,6 @@
 #Javier Pardo Diaz. Silencing Lab - Elena Caro
 #TRABAJO FIN DE GRADO
-##Programme
+##Program
 
 import ttk
 from ttk import *
